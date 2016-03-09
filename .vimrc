@@ -47,7 +47,7 @@ set novisualbell
 set t_vb=
 
 " Switch to paste mode
-set pastetoggle=<F2>
+"set pastetoggle=<F2>
 
 " Don't move your fingers to arrow keys for history
 cnoremap <C-k> <Up>
@@ -68,25 +68,3 @@ set si
 
 " Format the statusline
 "set statusline=\ %F%m%r%h\ %w\ \ CWD:\ %r%{getcwd()}%h\ \ \ Line:\ %l/%L:%c
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
